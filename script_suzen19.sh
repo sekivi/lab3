@@ -13,4 +13,4 @@ mkdir bash
 cd bash
 mkdir commands
 cd commands
-+ls -a
+ls -a
