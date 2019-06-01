@@ -1,16 +1,4 @@
 #!/bin/bash
-mkdir Documents
-cd Documents
-mkdir projects
-cd projects
-mkdir lab19
-cd lab19
-mkdir using
-cd using
-mkdir simple
-cd simple
-mkdir bash
-cd bash
-mkdir commands
-cd commands
+mkdir -p Documents/projects/lab19/using/simple/bash/commands
+cd Documents/projects/lab19/using/simple/bash/commands
 ls -a
